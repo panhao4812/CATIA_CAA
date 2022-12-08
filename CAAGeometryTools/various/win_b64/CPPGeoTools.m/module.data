@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CPPGeoTools.pdb|.\CPPGeometryTools\CPPGeoTools.m
+CSC/000/DSI .\CPPGeometryTools\CPPGeoTools.m\Objects\win_b64\mkcsc\CPPGeoTools.cscdb|.\CPPGeometryTools\CPPGeoTools.m
+BTV/000/CUS .\win_b64\code\lib\CPPGeoTools.lib|.\CPPGeometryTools\CPPGeoTools.m
+INT/000/CUS .\win_b64\code\lib\CPPGeoTools.exp|.\CPPGeometryTools\CPPGeoTools.m
+RTV/001/CUS .\win_b64\code\bin\CPPGeoTools.dll|.\CPPGeometryTools\CPPGeoTools.m

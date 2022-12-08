@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CPPOpenNurbs.exp|.\CPPGeometryTools\CPPOpenNurbs.m
+CSC/000/DSI .\CPPGeometryTools\CPPOpenNurbs.m\Objects\win_b64\mkcsc\CPPOpenNurbs.cscdb|.\CPPGeometryTools\CPPOpenNurbs.m
+RTV/001/CUS .\win_b64\code\bin\CPPOpenNurbs.dll|.\CPPGeometryTools\CPPOpenNurbs.m
+BTV/000/CUS .\win_b64\code\lib\CPPOpenNurbs.lib|.\CPPGeometryTools\CPPOpenNurbs.m
+INT/000/CUS .\win_b64\code\bin\CPPOpenNurbs.pdb|.\CPPGeometryTools\CPPOpenNurbs.m

@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\CPPGeometryTools\TSAddin.m\Objects\win_b64\mkcsc\TSAddin.cscdb|.\CPPGeometryTools\TSAddin.m
+RTV/001/CUS .\win_b64\code\bin\TSAddin.dll|.\CPPGeometryTools\TSAddin.m
+INT/000/CUS .\win_b64\code\lib\TSAddin.exp|.\CPPGeometryTools\TSAddin.m
+BTV/000/CUS .\win_b64\code\lib\TSAddin.lib|.\CPPGeometryTools\TSAddin.m
+INT/000/CUS .\win_b64\code\bin\TSAddin.pdb|.\CPPGeometryTools\TSAddin.m

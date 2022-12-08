@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\TSConsole.pdb|.\CPPGeometryTools\TSConsole.m
+INT/000/CUS .\win_b64\code\lib\TSConsole.exp|.\CPPGeometryTools\TSConsole.m
+BTV/000/CUS .\win_b64\code\lib\TSConsole.lib|.\CPPGeometryTools\TSConsole.m
+CSC/000/DSI .\CPPGeometryTools\TSConsole.m\Objects\win_b64\mkcsc\TSConsole.cscdb|.\CPPGeometryTools\TSConsole.m
+RTV/001/CUS .\win_b64\code\bin\TSConsole.dll|.\CPPGeometryTools\TSConsole.m

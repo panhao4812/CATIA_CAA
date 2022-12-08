@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\TSCAAFunction.exp|.\CPPGeometryTools\TSCAAFunction.m
+INT/000/CUS .\win_b64\code\bin\TSCAAFunction.pdb|.\CPPGeometryTools\TSCAAFunction.m
+BTV/000/CUS .\win_b64\code\lib\TSCAAFunction.lib|.\CPPGeometryTools\TSCAAFunction.m
+RTV/001/CUS .\win_b64\code\bin\TSCAAFunction.dll|.\CPPGeometryTools\TSCAAFunction.m
+CSC/000/DSI .\CPPGeometryTools\TSCAAFunction.m\Objects\win_b64\mkcsc\TSCAAFunction.cscdb|.\CPPGeometryTools\TSCAAFunction.m

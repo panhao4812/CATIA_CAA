@@ -1,0 +1,13 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAAAddin.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddin.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddin.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddin.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CAAAddinHeader.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddinHeader.CATRsc|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddinHeader.CATRsc
+BTV/002/CUS .\win_b64\code\productIC\CPPGeometryToolsIC.script|.\CPPGeometryTools
+DAT/002/CUS .\win_b64\resources\msgcatalog\CAAAddinHeader.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAAAddin.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddin.CATNls
+RTV/002/DSI .\win_b64\code\productIC\CPPGeometryToolsIC.required|.\CPPGeometryTools
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CAAAddinHeader.CATNls|.\CPPGeometryTools\CNext\resources\msgcatalog\CAAAddinHeader.CATNls
+CSC/002/DSI .\CPPGeometryTools\IdentityCard\Objects\win_b64\mkcsc\CPPGeometryTools.cscdb|.\CPPGeometryTools
+BTV/002/CUS .\win_b64\code\productIC\CPPGeometryToolsIC.xml|.\CPPGeometryTools
+DAT/002/CUS .\win_b64\code\dictionary\CPPGeometryTools.dico|.\CPPGeometryTools\CNext\code\dictionary\CPPGeometryTools.dico
